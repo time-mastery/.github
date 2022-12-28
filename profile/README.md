@@ -3,13 +3,13 @@
 </p>
 
 
-# Pmodore
+# TimeMastery
 
-Welcome to the Pmodore GitHub organization!
+Welcome to the TimeMastery GitHub organization!
 
 ## About
 
-**Pmodore** is a productivity tool that helps you manage your time and increase your focus. Based on the Pomodoro Technique, our app helps you break down your work into intervals of focused work and short breaks, so you can get more done in less time.
+**TimeMastery** is a productivity tool that helps you manage your time and increase your focus. Based on the Pomodoro Technique, our app helps you break down your work into intervals of focused work and short breaks, so you can get more done in less time.
 
 ## Features
 
@@ -22,7 +22,7 @@ Welcome to the Pmodore GitHub organization!
 
 We welcome contributions and participation from the community. Here are a few ways you can get involved:
 
-- [How to contribute](https://github.com/pmodore/.github/blob/main/CONTRIBUTING.md) - Learn about our contribution guidelines and how to submit a pull request.
+- [How to contribute](https://github.com/time-mastery/.github/blob/main/CONTRIBUTING.md) - Learn about our contribution guidelines and how to submit a pull request.
 - [Join our community]() - Find out how to join our community and get involved through events, discussions, and more.
 
 ## Contact
