@@ -1,4 +1,4 @@
-# Contributing to Pmodore
+# Contributing to TimeMastery
 
 We welcome contributions to Pmodore! Whether you're fixing a bug, adding a new feature, or improving the documentation, we appreciate your help. Here's how you can get involved:
 
