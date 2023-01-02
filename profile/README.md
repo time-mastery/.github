@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/2DtfA7nYrbNnIabEyK/giphy.gif" />
+    <img src="https://raw.githubusercontent.com/time-mastery/.github/main/contents/tm_banner.png" />
 </p>
 
 
